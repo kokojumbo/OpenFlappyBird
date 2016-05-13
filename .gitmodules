@@ -1,6 +1,6 @@
 [submodule "andengine"]
 	path = andengine
-	url = /Users/art.beatte/Projects/OpenFlappyBird/andengine
+	url = https://github.com/nicolasgramlich/AndEngine.git
 [submodule "andenginePhysicsBox2dExtension"]
 	path = andenginePhysicsBox2dExtension
-	url = /Users/art.beatte/Projects/OpenFlappyBird/andenginePhysicsBox2dExtension
+	url = https://github.com/nicolasgramlich/AndEnginePhysicsBox2DExtension.git
